@@ -108,15 +108,6 @@ namespace Diagnoser
                 i++;
                 j = 0;
             }
-
-            /*for(int k=0; k < data.GetLength(0); k++)
-          {
-              for(int l = 0; l < data.GetLength(1)-1; l++)
-              {
-                  richTextBox1.Text += "" + data[k, l] + " ";
-              }
-              richTextBox1.Text += "\n";
-          }*/
         }
 
         private void button3_Click(object sender, EventArgs e)
